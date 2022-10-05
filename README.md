@@ -1,6 +1,12 @@
 # **SampleGrabber**
 SampleGrabber is a small and easy to use tool to download audio files from the SampleFocus website.
 
+## **Installation**
+1. Download and install [Python](https://www.python.org/) (the program that runs the code)
+    - [Here](https://www.youtube.com/watch?v=ZRbirvsDQ-I) is a video on how to install Python
+
+2. Thats it! You can now open the application by double clicking on the "SampleGrabber.pyw" file
+
 ## **How to use**
 ### Setup
 1. Add the Chrome extension [Javascript & Css auto injection](https://chrome.google.com/webstore/detail/javascript-css-auto-injec/oakjdafonfdgbgbcofjpaecngfimohno) and then open it
