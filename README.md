@@ -5,11 +5,13 @@ SampleGrabber is a small and easy to use tool to download audio files from the S
 ### Setup
 1. Add the Chrome extension [Javascript & Css auto injection](https://chrome.google.com/webstore/detail/javascript-css-auto-injec/oakjdafonfdgbgbcofjpaecngfimohno) and then open it
 
-3. Add a new rule by clicking on the plus button and give it a name of your choise (does not matter how you call it)
+2. Add a new rule by clicking on the plus button and give it a name of your choise (does not matter how you call it)
 
-4. Paste the url "https://samplefocus.com/samples/" into the url field, on the left select the option "URL start with" (if not already selected) and on the right select the option "On Page Loaded"
+3. Paste the url "https://samplefocus.com/samples/" into the url field, on the left select the option "URL start with" (if not already selected) and on the right select the option "On Page Loaded"
 
-5. In the JS code field, paste in [this](https://pastebin.com/VKZRpLu6) script
+4. In the JS code field, paste in [this](https://pastebin.com/VKZRpLu6) script
+
+![Extension](https://i.imgur.com/t6jZW3E.png "Javascript & Css auto injection")
 
 ### Pull process
 1. Open the SampleGrabber.pyw file
@@ -23,3 +25,5 @@ SampleGrabber is a small and easy to use tool to download audio files from the S
 5. Press on the "pull" button at the button to download the sample
 
 6. Done! A new audio file that contains your sample should now appear in the same directory as the SampleGrabber.pyw file
+
+![SampleGrabber](https://i.imgur.com/JMCgpnV.png "SampleGrabber application")
